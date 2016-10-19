@@ -1,1 +1,1 @@
-# lab6-init-repo
+# cc-lab6-storage
